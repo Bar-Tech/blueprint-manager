@@ -8,7 +8,7 @@ Blueprints are step-by-step workflows built by Snowflake SMEs that guide you thr
 *Self-service platform configuration, guided by experts*    
 Blueprint Manager walks you through each decision, captures your answers, and generates the SQL and configuration tailored to your environment. No guesswork, no waiting for help—just clear direction to get productive faster.
 
-## Why Blueprints?  
+## Why BlueprintsTEST TEST 2222?  
 
 Expert-backed guidance so you can configure your environment knowing it follows best practices and will scale with your needs.
 - **Confidence** - Expert-defined workflows ensure you're doing it right

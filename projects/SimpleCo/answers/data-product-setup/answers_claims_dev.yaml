@@ -4,7 +4,7 @@
 # =============================================================================
 
 # -----------------------------------------------------------------------------
-# Organization Context (inherited from Platform Foundation)
+# Organization Context (inherited from Platform Foundation)testetest
 # -----------------------------------------------------------------------------
 snowflake_org_name: SIMPLECO
 account_strategy: Single Account

@@ -9,7 +9,7 @@ Unit tests for render_journey.py
 
 Tests focus on the conditional variable handling fix (CXE-13814):
 Templates should only be skipped when a null/missing variable would actually
-be needed during rendering, taking into account conditional logic.
+be needed during rendering, taking into account conditional logic.teststest
 """
 
 import shutil
