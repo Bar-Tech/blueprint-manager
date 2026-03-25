@@ -16,7 +16,7 @@ Expert-backed guidance so you can configure your environment knowing it follows 
 - **Speed** - Get productive faster with guided setup
 - **Self-Service** - Move at your own pace
 
-## How does it work?
+## How does it work?TEST TESTyyyyy
 
 **Blueprints**  
 Blueprints are templates for best-practice Snowflake implementation and setup containing expert guidance, prescriptive configurations, validation rules, and generation logic. Blueprints will prompt you for business requirements via Cortex Code, then generate ready-to-execute SQL scripts to implement best-practice configurations, and provide curated documentation recording your decisions.  
